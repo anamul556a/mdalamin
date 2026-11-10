@@ -1,5 +1,5 @@
 // ====== EDIT THIS: your Fiverr gig link ======
-const FIVERR_URL = "https://www.fiverr.com/YOUR-USERNAME/YOUR-GIG";
+const FIVERR_URL = "https://www.fiverr.com/anamul556/do-perfects-on-page-seo-optimization-and-technical-optimization-for-your-site";
 // ===============================================
 
 document.querySelectorAll("[data-fiverr]").forEach(a => {
